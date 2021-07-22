@@ -2,7 +2,7 @@
 
 A sample nodejs service subscribing to Azure Scheduled Events.
 
-Docs Articles:
+Docs articles:
 
 - [Azure Metadata Service: Scheduled Events for Linux VMs](https://docs.microsoft.com/en-us/azure/virtual-machines/linux/scheduled-events)
 - [Azure Metadata Service: Scheduled Events for Windows VMs](https://docs.microsoft.com/en-us/azure/virtual-machines/windows/scheduled-events)
